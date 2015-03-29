@@ -1,0 +1,14 @@
+frmMain = 78, 7, 967, 624, C, 18, 93, 675, 619, C
+Module = 181, 17, 1029, 630, C
+modBrowseForFolders = 290, 80, 936, 574, C
+mdXpThemeSupport = 250, 69, 983, 845, C
+modGetSystemFolders = 220, 220, 940, 794, C
+modRegistry = 88, 116, 858, 737, C
+modGetWindowsVersion = 0, 0, 0, 0, C
+clsListEmu = 141, 36, 871, 648, C
+CTooltip = 88, 116, 894, 737, C
+mUnzip = 154, 203, 924, 824, C
+cUnzip = 198, 261, 979, 882, C
+xpIcon = 220, 220, 1070, 670, C
+modPortable = 257, 12, 951, 624, C
+modCaptureConsole = 135, 14, 1010, 560, C
